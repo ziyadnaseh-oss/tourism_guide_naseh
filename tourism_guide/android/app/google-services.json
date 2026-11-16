@@ -1,0 +1,29 @@
+{
+  "project_info": {
+    "project_number": "338192803319",
+    "project_id": "venustourismguide",
+    "storage_bucket": "venustourismguide.firebasestorage.app"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:338192803319:android:9bdcb6294a6e6ffc70faf2",
+        "android_client_info": {
+          "package_name": "ven.naseh.tourism_guide"
+        }
+      },
+      "oauth_client": [],
+      "api_key": [
+        {
+          "current_key": "AIzaSyCbfGq2ClhvuUZomnE0lqV4ZqIEqkT_gAs"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": []
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
